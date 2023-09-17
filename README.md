@@ -11,7 +11,7 @@ A lean API to learn and experiment with Go.
 
 ## Available endpoints
 
-- `register`, `login` (for registration and authentication)
-- `journal`, `journal/entries`, `journal/:id` (for journaling operations)
+- `/register`, `/login` (for registration and authentication)
+- `/journal`, `/journal/entries`, `/journal/:id` (for journaling operations)
 - `/exercise/entries`, `/exercise/entry/:id` (_to be added_)
-- `reminders`, `reminder/:id
+- `/reminders`, `/reminder/:id`
