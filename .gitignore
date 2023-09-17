@@ -1,2 +1,31 @@
-health.db
+# Compiled binaries, etc.
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Log files
+*.log
+
+# Go specific
+bin/
+pkg/
+vendor/
+
+# Database
+*.db
+*.sqlite
+
+# Configuration files
 .env
+
+# Editor-specific folders and files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
