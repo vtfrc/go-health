@@ -13,5 +13,6 @@ A lean API to learn and experiment with Go.
 
 - `/register`, `/login` (for registration and authentication)
 - `/journal`, `/journal/entries`, `/journal/:id` (for journaling operations)
-- `/exercise/entries`, `/exercise/entry/:id` (_to be added_)
-- `/reminders`, `/reminder/:id`
+- `/exercise/entries`, `/exercise/:id` (for exercise logging, _to be added_)
+- `/nutrition/entries`, `/nutrition/:id`(for nutrition logging, _to be added_)
+- `/reminders`, `/reminder/:id` (for reminders, _to be added_)
